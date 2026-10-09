@@ -1,0 +1,19 @@
+# Local agent context and verification records
+.impeccable/
+PRODUCT.md
+design/verification.md
+
+# Personal task exports and recovery files
+Taskly-backup-*.json
+Taskly-tasks-*.csv
+Taskly-unreadable-data-*.txt
+
+# Credentials and temporary files
+.env
+.env.*
+*.pem
+*.key
+.capture-*.b64
+design/.capture-*.b64
+Thumbs.db
+.DS_Store
